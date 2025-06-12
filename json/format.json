@@ -1,0 +1,19 @@
+[
+	{
+		"image": "images/1.png",
+		"name": "cachaca teste1",
+		"price": 520.00,
+		"oldPrice": 590.00,
+		"badge": "-$20",
+		"badgeColor": "red",
+		"category": "men"
+	},
+	{
+		"image": "images/2.png",
+		"name": "queijo teste 2",
+		"price": 610.00,
+		"badge": "new",
+		"badgeColor": "green",
+		"category": "women"
+	}
+]
